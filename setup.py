@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     
 setuptools.setup(
     name="testpay",
-    version="1.333333333333333333333333333333333.0",
+    version="1.3.0",
     description="Testpay Python Client",
     url="https://github.com/soumya-vats/test-repo-python",
     author="Team Testpay",
