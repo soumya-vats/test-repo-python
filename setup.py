@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
     
 setuptools.setup(
-    name="testpay",
+    name="testpay_again",
     version="1.3.0",
     description="Testpay Python Client",
     url="https://github.com/soumya-vats/test-repo-python",
