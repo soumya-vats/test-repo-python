@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+testpay.egg-info/PKG-INFO
+testpay.egg-info/SOURCES.txt
+testpay.egg-info/dependency_links.txt
+testpay.egg-info/top_level.txt
